@@ -1,0 +1,97 @@
+loginID,Customer_name,Customer_Age,Customer_Occupation,Credit_Card_Number,Order_ID,Order_Date,Expected_Delivery_Date,Actual_Delivery_Date,Product_ID,Product_Name,Category,Manufacturer,Review_Rating,Delivery_Tracking_ID,Delivery_Type,Delivery_Zip_Code,Transaction_Status,Order_Returned,Order_Delivered_on_Time
+test,test,29,Banker,789,1,03/12/2020,17/12/2020,16/12/2020,Dr. Yasmin C Gosiengfiao,Dr. Yasmin C Gosiengfiao,DOCTOR,CANCER,5,615,PickUP,60617,1,1,0
+test,test,29,Banker,789,2,03/12/2020,17/12/2020,21/12/2020,Dr. Eiman El-Tag,Dr. Eiman El-Tag,DOCTOR,EYES,5,394,PickUP,60617,0,0,1
+test,test,29,Banker,789,3,03/12/2020,17/12/2020,18/12/2020,Dr. Yasmin C Gosiengfiao,Dr. Yasmin C Gosiengfiao,DOCTOR,CANCER,5,791,PickUP,60617,1,1,1
+test,test,29,Banker,789,4,03/12/2020,17/12/2020,20/12/2020,Advocate Sherman Hospital,Advocate Sherman Hospital,HOSPITAL,COMMUNITY,5,48,PickUP,60617,1,1,1
+test,test,29,Banker,123456789,5,03/12/2020,17/12/2020,16/12/2020,Dr. Yasmin C Gosiengfiao,Dr. Yasmin C Gosiengfiao,DOCTOR,CANCER,5,190,PickUP,60616,1,1,0
+test,test,29,Banker,789,6,03/12/2020,17/12/2020,13/12/2020,Ingalls Memorial Hospital,Ingalls Memorial Hospital,HOSPITAL,FEDERAL,5,269,PickUP,60617,1,1,0
+test,test,29,Banker,1232332,7,03/12/2020,17/12/2020,14/12/2020,Delta Dental,Delta Dental,INSURANCE,HEALTH,5,948,HomeDelivery,60618,0,0,0
+test,test,29,Banker,789,8,03/12/2020,17/12/2020,20/12/2020,Delta Dental,Delta Dental,INSURANCE,HEALTH,5,602,PickUP,60617,1,0,1
+test,test,29,Banker,789,9,03/12/2020,17/12/2020,14/12/2020,Illini Community Hospital,Illini Community Hospital,HOSPITAL,FEDERAL,5,771,PickUP,60617,0,0,0
+test,test,29,Banker,789,10,03/12/2020,17/12/2020,20/12/2020,Heartland Regional Medical Center,Heartland Regional Medical Center,HOSPITAL,FEDERAL,5,833,PickUP,60617,1,1,1
+test,test,29,Banker,789,11,03/12/2020,17/12/2020,17/12/2020,Louis A. Weiss Memorial Hospital,Louis A. Weiss Memorial Hospital,HOSPITAL,PSYCHIATRIC,5,141,PickUP,60617,1,1,1
+test,test,29,Banker,789,12,03/12/2020,17/12/2020,16/12/2020,Dr. Aliasghar Arastu,Dr. Aliasghar Arastu,DOCTOR,DENTAL,5,12,PickUP,60617,1,0,0
+test,test,29,Banker,789,13,03/12/2020,17/12/2020,12/12/2020,Dr. Yasmin C Gosiengfiao,Dr. Yasmin C Gosiengfiao,DOCTOR,CANCER,5,270,PickUP,60617,0,1,0
+test,test,29,Banker,789,14,03/12/2020,17/12/2020,16/12/2020,Advocate South Suburban Hospital,Advocate South Suburban Hospital,HOSPITAL,COMMUNITY,5,914,PickUP,60617,0,1,0
+test,test,29,Banker,789,14,03/12/2020,17/12/2020,19/12/2020,Dr. Yasmin C Gosiengfiao,Dr. Yasmin C Gosiengfiao,DOCTOR,CANCER,5,815,PickUP,60617,1,1,1
+test,test,29,Banker,789,14,03/12/2020,17/12/2020,13/12/2020,Louis A. Weiss Memorial Hospital,Louis A. Weiss Memorial Hospital,HOSPITAL,PSYCHIATRIC,5,328,PickUP,60617,0,1,0
+test,test,29,Banker,789,14,03/12/2020,17/12/2020,14/12/2020,Delta Dental,Delta Dental,INSURANCE,HEALTH,5,593,PickUP,60617,1,1,0
+test,test,29,Banker,789,14,03/12/2020,17/12/2020,15/12/2020,Fidelis Care,Fidelis Care,INSURANCE,MEDICARE,5,248,PickUP,60617,1,0,0
+test,test,29,Banker,789,14,03/12/2020,17/12/2020,18/12/2020,Sivananda Yoga Vedanta Center,Sivananda Yoga Vedanta Center,HEALTHCLUBS,YOGA,5,590,PickUP,60617,0,0,1
+test,test,29,Banker,789,14,03/12/2020,17/12/2020,18/12/2020,Sivananda Yoga Vedanta Center,Sivananda Yoga Vedanta Center,HEALTHCLUBS,YOGA,5,432,PickUP,60617,0,0,1
+test,test,29,Banker,789,14,03/12/2020,17/12/2020,18/12/2020,Sivananda Yoga Vedanta Center,Sivananda Yoga Vedanta Center,HEALTHCLUBS,YOGA,5,793,PickUP,60617,0,0,1
+test,test,29,Banker,789,15,03/12/2020,17/12/2020,15/12/2020,Dr. Yasmin C Gosiengfiao,Dr. Yasmin C Gosiengfiao,DOCTOR,CANCER,5,100,PickUP,60617,0,1,0
+test1,test,29,Banker,789,16,03/12/2020,17/12/2020,19/12/2020,Osnovation Systems,Osnovation Systems,MEDICARE,PERSONAL,5,642,HomeDelivery,60617,1,1,1
+test1,test1,29,Student,12345,17,03/12/2020,17/12/2020,21/12/2020,Dr. Robert Hsiung,Dr. Robert Hsiung,DOCTOR,CANCER,5,886,PickUP,60650,1,1,1
+test1,test1,29,Student,12345,18,03/12/2020,17/12/2020,14/12/2020,Dr. Scott Lewis Rosen,Dr. Scott Lewis Rosen,DOCTOR,PHYSICAL,5,591,PickUP,60650,1,1,0
+test1,test1,29,Student,12345,19,03/12/2020,17/12/2020,20/12/2020,Dr. Scott Lewis Rosen,Dr. Scott Lewis Rosen,DOCTOR,PHYSICAL,5,330,PickUP,60650,0,0,1
+test1,test1,29,Student,12345,19,03/12/2020,17/12/2020,14/12/2020,Dr. Aliasghar Arastu,Dr. Aliasghar Arastu,DOCTOR,DENTAL,5,924,PickUP,60650,1,0,0
+test1,test1,29,Student,12345,20,03/12/2020,17/12/2020,14/12/2020,Dr. Niveda Shekar,Dr. Niveda Shekar,DOCTOR,EYES,5,204,PickUP,60650,1,0,0
+test1,test1,29,Student,12345,21,03/12/2020,17/12/2020,14/12/2020,Dr. Michael Kenneth Hawking,Dr. Michael Kenneth Hawking,DOCTOR,EYES,5,731,PickUP,60650,1,1,0
+test1,test1,29,Student,12345,22,03/12/2020,17/12/2020,20/12/2020,Dr. Yasmin C Gosiengfiao,Dr. Yasmin C Gosiengfiao,DOCTOR,CANCER,5,407,PickUP,60650,0,1,1
+test1,test1,29,Student,12345,23,03/12/2020,17/12/2020,12/12/2020,Crossroads Community Hospital,Crossroads Community Hospital,HOSPITAL,FEDERAL,5,297,PickUP,60650,0,0,0
+test1,test1,29,Student,12345,24,03/12/2020,17/12/2020,14/12/2020,Highland Park Hospital,Highland Park Hospital,HOSPITAL,FEDERAL,5,477,PickUP,60650,0,1,0
+test1,test1,29,Student,12345,25,03/12/2020,17/12/2020,16/12/2020,Linden Oaks Hospital,Linden Oaks Hospital,HOSPITAL,PSYCHIATRIC,5,477,PickUP,60650,1,1,0
+test1,test1,29,Student,12345,26,03/12/2020,17/12/2020,21/12/2020,Temple of Kriya Yoga,Temple of Kriya Yoga,HEALTHCLUBS,YOGA,5,506,PickUP,60650,0,1,1
+test1,test1,29,Student,12345,27,03/12/2020,17/12/2020,15/12/2020,Loretto Hospital,Loretto Hospital,HOSPITAL,PSYCHIATRIC,5,186,PickUP,60650,0,1,0
+test3,test3,24,Student,12345678,28,03/12/2020,17/12/2020,14/12/2020,Dr. Constants Adams,Dr. Constants Adams,DOCTOR,EYES,4,738,PickUP,60650,1,0,0
+test3,test3,24,Student,12345678,29,03/12/2020,17/12/2020,20/12/2020,Dr. Mark Rosenbloom,Dr. Mark Rosenbloom,DOCTOR,CANCER,4,492,HomeDelivery,60650,1,0,1
+test3,test3,24,Student,12345678,29,03/12/2020,17/12/2020,14/12/2020,Dr. Michael Kenneth Hawking,Dr. Michael Kenneth Hawking,DOCTOR,EYES,4,904,HomeDelivery,60650,0,0,0
+test3,test3,24,Student,12345678,29,03/12/2020,17/12/2020,12/12/2020,Dr. Aparajita Das,Dr. Aparajita Das,DOCTOR,DENTAL,4,420,HomeDelivery,60650,1,1,0
+test3,test3,24,Student,12345678,29,03/12/2020,17/12/2020,12/12/2020,Dr. Eileen M Beaty,Dr. Eileen M Beaty,DOCTOR,DENTAL,4,997,HomeDelivery,60650,0,0,0
+test3,test3,24,Student,12345678,29,03/12/2020,17/12/2020,21/12/2020,Dr. Constants Adams,Dr. Constants Adams,DOCTOR,EYES,4,191,HomeDelivery,60650,0,1,1
+test3,test3,24,Student,12345678,29,03/12/2020,17/12/2020,17/12/2020,Dr. Stuart Crane Greene,Dr. Stuart Crane Greene,DOCTOR,CANCER,4,582,HomeDelivery,60650,0,0,1
+test3,test3,24,Student,12345678,29,03/12/2020,17/12/2020,18/12/2020,Dr. John Paul Estrada,Dr. John Paul Estrada,DOCTOR,CANCER,4,86,HomeDelivery,60650,1,1,1
+test3,test3,24,Student,12345678,29,03/12/2020,17/12/2020,16/12/2020,Town Sports International,Town Sports International,HEALTHCLUBS,GYM,4,700,HomeDelivery,60650,1,0,0
+test3,test3,24,Student,12345678,29,03/12/2020,17/12/2020,14/12/2020,Hammond Henry Hospital,Hammond Henry Hospital,HOSPITAL,FEDERAL,4,132,HomeDelivery,60650,0,0,0
+test3,test3,24,Student,12345678,29,03/12/2020,17/12/2020,20/12/2020,Yoga Experience,Yoga Experience,HEALTHCLUBS,YOGA,4,696,HomeDelivery,60650,1,1,1
+test3,test3,24,Student,12345678,29,03/12/2020,17/12/2020,14/12/2020,Fidelis Care,Fidelis Care,INSURANCE,MEDICARE,4,266,HomeDelivery,60650,1,1,0
+test3,test3,24,Student,12345678,29,03/12/2020,17/12/2020,21/12/2020,Zenith Insurance Group,Zenith Insurance Group,INSURANCE,MEDICARE,4,796,HomeDelivery,60650,1,1,1
+test3,test3,24,Student,12345678,30,03/12/2020,17/12/2020,20/12/2020,Dr. Eiman El-Tag,Dr. Eiman El-Tag,DOCTOR,EYES,4,912,PickUP,60650,0,0,1
+test3,test3,24,Student,12345678,31,03/12/2020,17/12/2020,21/12/2020,Advocate South Suburban Hospital,Advocate South Suburban Hospital,HOSPITAL,COMMUNITY,4,933,PickUP,60650,1,0,1
+test3,test3,24,Student,12345678,32,03/12/2020,17/12/2020,14/12/2020,Sivananda Yoga Vedanta Center,Sivananda Yoga Vedanta Center,HEALTHCLUBS,YOGA,4,708,PickUP,60650,0,0,0
+test3,test3,24,Student,12345678,33,03/12/2020,17/12/2020,16/12/2020,Owlet Baby Care Inc.,Owlet Baby Care Inc.,MEDICARE,PERSONAL,4,199,HomeDelivery,60650,0,1,0
+test3,test3,24,Student,12345678,34,03/12/2020,17/12/2020,14/12/2020,Yogaview,Yogaview,HEALTHCLUBS,YOGA,4,76,PickUP,60650,0,1,0
+test3,test3,24,Student,12345678,35,03/12/2020,17/12/2020,21/12/2020,Dr. Lori Eve Lovitz,Dr. Lori Eve Lovitz,DOCTOR,DENTAL,4,695,PickUP,60650,1,1,1
+test3,test3,24,Student,12345678,36,03/12/2020,17/12/2020,21/12/2020,Nature Yoga Sanctuary,Nature Yoga Sanctuary,HEALTHCLUBS,YOGA,4,949,PickUP,60650,1,1,1
+test3,test3,24,Student,12345678,37,03/12/2020,17/12/2020,18/12/2020,Sivananda Yoga Vedanta Center,Sivananda Yoga Vedanta Center,HEALTHCLUBS,YOGA,4,359,PickUP,60650,1,1,1
+test3,test3,24,Student,12345678,38,03/12/2020,17/12/2020,16/12/2020,Dr. Michael Kenneth Hawking,Dr. Michael Kenneth Hawking,DOCTOR,EYES,4,988,PickUP,60650,0,0,0
+test3,test3,24,Student,12345678,39,03/12/2020,17/12/2020,15/12/2020,Equinox Fitness,Equinox Fitness,HEALTHCLUBS,GYM,4,259,PickUP,60650,1,0,0
+test3,test3,24,Student,12345678,40,03/12/2020,17/12/2020,16/12/2020,Kaiser Permanente,Kaiser Permanente,INSURANCE,MEDICARE,4,99,HomeDelivery,60650,1,1,0
+test4,test3,24,Student,12345678,41,03/12/2020,17/12/2020,12/12/2020,Dr. Eiman El-Tag,Dr. Eiman El-Tag,DOCTOR,EYES,4,554,PickUP,60650,1,0,0
+test4,test4,24,Student,12345678,42,03/12/2020,17/12/2020,14/12/2020,Dr. Eiman El-Tag,Dr. Eiman El-Tag,DOCTOR,EYES,4,407,PickUP,60650,0,0,0
+test4,test4,24,Student,12345678,42,03/12/2020,17/12/2020,15/12/2020,Dr. Eiman El-Tag,Dr. Eiman El-Tag,DOCTOR,EYES,4,447,PickUP,60650,0,1,0
+test4,test4,24,Student,12345678,42,03/12/2020,17/12/2020,14/12/2020,Dr. Aliasghar Arastu,Dr. Aliasghar Arastu,DOCTOR,DENTAL,4,756,PickUP,60650,1,0,0
+test4,test4,24,Student,12345678,43,03/12/2020,17/12/2020,15/12/2020,Dr. Yasmin C Gosiengfiao,Dr. Yasmin C Gosiengfiao,DOCTOR,CANCER,4,638,PickUP,60650,1,0,0
+test4,test4,24,Student,12345678,44,03/12/2020,17/12/2020,14/12/2020,Evanston Hospital,Evanston Hospital,HOSPITAL,FEDERAL,4,258,PickUP,60650,1,0,0
+test4,test4,24,Student,12345678,45,03/12/2020,17/12/2020,13/12/2020,Dr. Ravi Venkata Durvasula,Dr. Ravi Venkata Durvasula,DOCTOR,EYES,4,895,PickUP,60650,1,1,0
+test4,test4,24,Student,12345678,46,03/12/2020,17/12/2020,15/12/2020,Illini Community Hospital,Illini Community Hospital,HOSPITAL,FEDERAL,4,816,PickUP,60650,0,0,0
+test5,test4,24,Student,12345678,47,03/12/2020,17/12/2020,16/12/2020,Dr. Scott Lewis Rosen,Dr. Scott Lewis Rosen,DOCTOR,PHYSICAL,4,257,PickUP,60650,1,0,0
+test5,test4,24,Student,12345678,48,03/12/2020,17/12/2020,17/12/2020,Dr. Imtiaz Hamid,Dr. Imtiaz Hamid,DOCTOR,EYES,4,74,PickUP,60650,1,1,1
+test5,test4,24,Student,12345678,49,03/12/2020,17/12/2020,14/12/2020,Highmark,Highmark,INSURANCE,HEALTH,4,982,HomeDelivery,60650,1,1,0
+test5,test4,24,Student,12345678,50,03/12/2020,17/12/2020,15/12/2020,Dr. Jeannine Piccinich,Dr. Jeannine Piccinich,DOCTOR,PHYSICAL,4,454,PickUP,60650,0,0,0
+test5,test5,24,Student,12345678,35,03/12/2020,17/12/2020,14/12/2020,Dr. Jeannine Piccinich,Dr. Jeannine Piccinich,DOCTOR,PHYSICAL,4,267,PickUP,60650,1,1,0
+test5,test5,24,Student,1234567,50,03/12/2020,17/12/2020,16/12/2020,Dr. Jamila Chiandrika Williams,Dr. Jamila Chiandrika Williams,DOCTOR,DENTAL,4,668,PickUP,60650,0,1,0
+test5,test5,24,Student,1234567,50,03/12/2020,17/12/2020,19/12/2020,Youfit,Youfit,HEALTHCLUBS,GYM,4,942,PickUP,60647,0,1,1
+test5,test5,24,Student,1234567,50,03/12/2020,17/12/2020,13/12/2020,Lifetime Fitness,Lifetime Fitness,HEALTHCLUBS,GYM,4,188,PickUP,60647,0,0,0
+test5,test5,24,Student,1234567,51,03/12/2020,17/12/2020,21/12/2020,Dr. Michael Kenneth Hawking,Dr. Michael Kenneth Hawking,DOCTOR,EYES,4,61,PickUP,60647,1,1,1
+test5,test5,24,Student,1234567,52,03/12/2020,17/12/2020,15/12/2020,Circadiance,Circadiance,MEDICARE,PHARMA,4,758,PickUP,60647,1,0,0
+test5,test5,24,Student,1234567,53,03/12/2020,17/12/2020,20/12/2020,Kindred Hospital - Northlake,Kindred Hospital - Northlake,HOSPITAL,PSYCHIATRIC,4,603,PickUP,60647,0,0,1
+test5,test5,24,Student,1234567,54,03/12/2020,17/12/2020,15/12/2020,Equinox Fitness,Equinox Fitness,HEALTHCLUBS,GYM,4,123,PickUP,60647,0,0,0
+test5,test5,24,Student,1234567,55,03/12/2020,17/12/2020,20/12/2020,Medcenter Systems Llc,Medcenter Systems Llc,MEDICARE,PERSONAL,4,481,HomeDelivery,60647,1,0,1
+test5,test5,24,Student,1234567,56,03/12/2020,17/12/2020,19/12/2020,Crown Laboratories,Crown Laboratories,MEDICARE,PHARMA,4,768,PickUP,60647,1,1,1
+test5,test5,24,Student,1234567,57,03/12/2020,17/12/2020,18/12/2020,Crown Laboratories,Crown Laboratories,MEDICARE,PHARMA,4,673,HomeDelivery,60647,0,1,1
+test5,test5,24,Student,1234567,57,03/12/2020,17/12/2020,16/12/2020,Brahma Kumaris Meditation Center,Brahma Kumaris Meditation Center,HEALTHCLUBS,YOGA,4,63,HomeDelivery,60647,1,1,0
+test5,test5,24,Student,1234567,57,03/12/2020,17/12/2020,13/12/2020,Odorno Llc,Odorno Llc,MEDICARE,PERSONAL,4,57,HomeDelivery,60647,0,0,0
+test5,test5,24,Student,1234567,58,03/12/2020,17/12/2020,20/12/2020,Highmark,Highmark,INSURANCE,HEALTH,4,436,HomeDelivery,60647,0,0,1
+test5,test5,24,Student,1234567,59,03/12/2020,17/12/2020,18/12/2020,Amd Ritmed,Amd Ritmed,MEDICARE,STORE,4,735,PickUP,60647,0,0,1
+test7,test5,24,Student,1234567,60,03/12/2020,17/12/2020,17/12/2020,Homecare Products,Homecare Products,MEDICARE,PHARMA,4,159,HomeDelivery,60647,1,1,1
+test7,test5,24,Student,1234567,61,03/12/2020,17/12/2020,19/12/2020,Medipak,Medipak,MEDICARE,PERSONAL,4,628,HomeDelivery,60647,1,0,1
+test7,test7,24,Student,123456787,62,03/12/2020,17/12/2020,17/12/2020,Osnovation Systems,Osnovation Systems,MEDICARE,PERSONAL,3,668,HomeDelivery,60614,0,1,1
+test7,test5,24,Student,1234567,63,03/12/2020,17/12/2020,18/12/2020,Caden Companies Llc,Caden Companies Llc,MEDICARE,STORE,4,674,HomeDelivery,60647,0,1,1
+test7,test7,24,Student,12345,64,03/12/2020,17/12/2020,21/12/2020,Sivananda Yoga Vedanta Center,Sivananda Yoga Vedanta Center,HEALTHCLUBS,YOGA,3,234,PickUP,60647,1,0,1
+test7,test7,24,Student,1234567,65,03/12/2020,17/12/2020,19/12/2020,Molina Healthcare,Molina Healthcare,INSURANCE,HEALTH,4,741,HomeDelivery,60647,1,1,1
+test7,test7,24,Student,1234567,66,03/12/2020,17/12/2020,18/12/2020,Delta Dental,Delta Dental,INSURANCE,HEALTH,2,250,HomeDelivery,60628,0,1,1
+test7,test7,24,Student,1234567,67,03/12/2020,17/12/2020,21/12/2020,Fridababy,Fridababy,MEDICARE,PHARMA,2,777,HomeDelivery,60628,0,0,1
+test7,test7,24,Student,1234567,68,03/12/2020,17/12/2020,20/12/2020,Ferris,Ferris,MEDICARE,PHARMA,2,265,HomeDelivery,60628,1,1,1
+test7,test7,24,Student,1234567,69,03/12/2020,17/12/2020,17/12/2020,Sivananda Yoga Vedanta Center,Sivananda Yoga Vedanta Center,HEALTHCLUBS,YOGA,2,507,PickUP,60628,0,1,1

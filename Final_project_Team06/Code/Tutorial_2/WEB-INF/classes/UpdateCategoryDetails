@@ -1,0 +1,62 @@
+import java.io.IOException;
+import java.io.PrintWriter;
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+import javax.servlet.http.HttpSession;
+import java.util.HashMap;
+import java.util.Map;
+
+@WebServlet("/UpdateCategoryDetails")
+
+public class UpdateCategoryDetails extends HttpServlet {
+	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		
+		response.setContentType("text/html");
+		PrintWriter pw = response.getWriter();
+
+
+		/* From the HttpServletRequest variable name,type,maker and acessories information are obtained.*/
+
+		Utilities utility = new Utilities(request, pw);
+		String requestType = request.getParameter("productAction");
+		response.setContentType("text/html");
+		PrintWriter pw = response.getWriter();
+		Utilities utility = new Utilities(request,pw);
+		utility.printHtml("Header.html");
+		utility.printHtml("LeftNavigationBar.html");
+		if requestType.equalsIgnoreCase("Add"){
+			pw.print("<div id='content'><div class='post'><h2 class='title meta'>");
+			pw.print("<a style='font-size: 24px;'>Add Product Details</a>");
+			pw.print("</h2><div class='entry'>");
+			pw.print("<form name ='Cart' action='ChooseProductID' method='post'>");
+			pw.print("<label >Select Product Category:</label>");
+			//Select Product Category
+			pw.print("<select id='productCatagory' name='productCatagory'>");
+		    pw.print("<option value='tv'>TV</option>");
+		    pw.print("<option value='soundsystem'>SoundSystem</option>");
+		    pw.print("<option value='laptop'>Laptop</option>");
+		    pw.print("<option value='voiceassistant'>Voiceassistant</option>");
+	        pw.print("<option value='wearabletechnology'>Wearabletechnology</option>");
+	        pw.print("<option value='phone'>Phone</option>");
+	        pw.print("</select>");
+		    
+		}
+		
+		utility.printHtml("Footer.html");
+		
+	}
+	
+
+
+	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		
+		response.setContentType("text/html");
+		PrintWriter pw = response.getWriter();
+		Utilities utility = new Utilities(request, pw);
+		
+		displayCart(request, response);
+	}
+}

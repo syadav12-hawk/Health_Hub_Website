@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ProductCatalog>
+
+<TVCatalog>
+    <tv id="LG TV">
+        <name>LG TV</name>
+        <price>1399.99</price>
+        <image>LG_tv.jpg</image>
+        <manufacturer>LG</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+		
+		<accessories>
+		<accessory>TV WARRANTY</accessory>
+		
+		<accessory>LG_monitor</accessory>
+		</accessories>
+		
+    </tv>
+	
+	
+    <tv id="SAMSUNG TV">
+        <name>SAMSUNG TV</name>
+        <price>1399.99</price>
+        <image>SAMSUNG_tv.jpg</image>
+        <manufacturer>SAMSUNG</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+		
+		<accessories>
+		<accessory>TV WARRANTY</accessory>
+		<accessory>sam_keyboard</accessory>
+		
+		</accessories>	
+		
+    </tv>
+
+
+    <tv id="SONY TV">
+        <name>SONY TV</name>
+        <price>1349.99</price>
+        <image>SONY_tv.jpg</image>
+        <manufacturer>SONY</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+		
+		<accessories>
+		<accessory>TV WARRANTY</accessory>
+
+		</accessories>	
+		
+    </tv>
+	
+	
+    <tv id="TCL TV">
+        <name>TCL TV</name>
+        <price>1349.99</price>
+        <image>TCL_tv.jpg</image>
+        <manufacturer>TCL</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+		
+		<accessories>
+		<accessory>TV WARRANTY</accessory>
+		
+		</accessories>
+		
+    </tv>
+	
+	
+    <tv id="VIZIO TV">
+        <name>VIZIO TV</name>
+        <price>1249.99</price>
+        <image>VIZIO_tv.jpg</image>
+        <manufacturer>VIZIO</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+		
+		<accessories>
+		<accessory>TV WARRANTY</accessory>
+		
+		</accessories>
+    </tv>	
+</TVCatalog>
+
+<SoundSystemCatalog>
+    <soundsystem id="BOSS SOUND">
+        <name>BOSS SOUND</name>
+        <price>890.99</price>
+        <image>bose_ss.jpg</image>
+        <manufacturer>BOSS</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+		
+
+    </soundsystem>
+	
+    <soundsystem id="KLH SOUND">
+        <name>KLH SOUND</name>
+        <price>189.99</price>
+        <image>klh_ss.jpg</image>
+        <manufacturer>KLH</manufacturer>
+        <condition>New</condition>
+        <discount>20.0</discount>
+		
+		
+		
+    </soundsystem>
+	
+    <soundsystem id="KLIPSCH SOUND">
+        <name>KLIPSCH SOUND</name>
+        <price>1299.99</price>
+        <image>klipsch_ss.jpg</image>
+        <manufacturer>KLIPSCH</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+		
+		
+		
+    </soundsystem>
+	
+    <soundsystem id="SONOS SOUND">
+        <name>SONOS SOUND</name>
+        <price>1299.99</price>
+        <image>sonos_ss.jpg</image>
+        <manufacturer>SONOS</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+		
+		
+    </soundsystem>
+	
+    <soundsystem id="SVS SOUND">
+        <name>SVS SOUND</name>
+        <price>1500.99</price>
+        <image>svs_ss.jpg</image>
+        <manufacturer>SVS</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+		
+		
+		
+    </soundsystem>
+</SoundSystemCatalog>
+
+
+
+
+<LaptopCatalog>
+<laptop id="DELL LAPTOP">
+        <name>DELL LAPTOP</name>
+        <price>1550.99</price>
+        <image>Dell_laptop.jpg</image>
+        <manufacturer>DELL</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+		
+		<accessories>
+		<accessory>LAPTOP WARRANTY</accessory>
+		<accessory>keyboard</accessory>
+		<accessory>LG_monitor</accessory>
+		</accessories>
+		
+</laptop>
+
+<laptop id="GOOGLE LAPTOP">
+        <name>GOOGLE LAPTOP</name>
+        <price>1650.99</price>
+        <image>Google_laptop.jpg</image>
+        <manufacturer>GOOGLE</manufacturer>
+        <condition>Refurbished</condition>
+        <discount>15.0</discount>
+		
+
+</laptop>
+<laptop id="LENEVO LAPTOP">
+        <name>LENEVO LAPTOP</name>
+        <price>1750.99</price>
+        <image>Lenevo_laptop.jpg</image>
+        <manufacturer>LENEVO</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+		
+
+		
+</laptop>
+<laptop id="APPLE MACBOOK LAPTOP">
+        <name>APPLE MACBOOK LAPTOP</name>
+        <price>1850.99</price>
+        <image>Macbook_laptop.jpg</image>
+        <manufacturer>APPLE</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+		
+		<accessories>
+		<accessory>LAPTOP WARRANTY</accessory>
+		<accessory>keyboard</accessory>
+		<accessory>LG_monitor</accessory>
+		</accessories>
+		
+		
+		
+</laptop>
+
+
+<laptop id="MICROSOFT LAPTOP">
+        <name>MICROSOFT LAPTOP</name>
+        <price>1850.99</price>
+        <image>Microsoft_laptop.jpg</image>
+        <manufacturer>MICROSOFT</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+		
+
+		
+</laptop>
+</LaptopCatalog>
+
+
+
+<VoiceAssistantCatalog>
+    <voiceassistant id="AMAZON ALEXA">
+        <name>AMAZON ALEXA</name>
+        <price>399.99</price>
+        <image>amazon_alexa_va.jpg</image>
+        <manufacturer>AMAZON</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+		
+		<accessories>
+		<accessory>VOICEASSISTANT WARRANTY</accessory>
+		</accessories>		
+    </voiceassistant>
+	
+    <voiceassistant id="APPLE SIRI">
+        <name>APPLE SIRI</name>
+        <price>399.99</price>
+        <image>Apple_Siri_va.png</image>
+        <manufacturer>APPLE</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+		
+		
+    </voiceassistant>
+
+    <voiceassistant id="SAMSUNG BIXBY">
+        <name>SAMSUNG BIXBY</name>
+        <price>349.99</price>
+        <image>bixby_va.png</image>
+        <manufacturer>SAMSUNG</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+		
+    </voiceassistant>
+	
+    <voiceassistant id="MICROSOFT CORTONA">
+        <name>MICROSOFT CORTONA</name>
+        <price>349.99</price>
+        <image>cortona_va.png</image>
+        <manufacturer>MICROSOFT</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+		
+		<accessories>
+		<accessory>VOICEASSISTANT WARRANTY</accessory>
+		</accessories>			
+    </voiceassistant>
+	
+    <voiceassistant id="GOOGLE ASSISTANT">
+        <name>GOOGLE ASSISTANT</name>
+        <price>249.99</price>
+        <image>google_assistant_va.png</image>
+        <manufacturer>GOOGLE</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+		
+		
+    </voiceassistant>
+	
+</VoiceAssistantCatalog>
+
+
+
+
+<WearableTechnologyCatalog>
+    <wearabletechnology id="APPLE SMART WATCH">
+        <name>APPLE SMART WATCH</name>
+        <price>399.99</price>
+        <image>Apple_smart_watches.jpg</image>
+        <manufacturer>APPLE</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+		
+		
+    </wearabletechnology>
+    <wearabletechnology id="OCULUS VR">
+        <name>OCULUS VR</name>
+        <price>399.99</price>
+        <image>oculus_vr.jpg</image>
+        <manufacturer>OCULUS</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+		
+		
+    </wearabletechnology>
+
+    <wearabletechnology id="SONY HEADPHONE">
+        <name>SONY HEADPHONE</name>
+        <price>349.99</price>
+        <image>sony_mx04.jpg</image>
+        <manufacturer>SONY</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+		
+		
+    </wearabletechnology>
+	
+    <wearabletechnology id="TAGG PET TRACKER">
+        <name>TAGG PET TRACKER</name>
+        <price>349.99</price>
+        <image>tagg_pet_tracker.jpg</image>
+        <manufacturer>TAGG</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+		
+    </wearabletechnology>
+	
+    <wearabletechnology id="GARMIN FITNESS WATCHES">
+        <name>GARMIN FITNESS WATCHES</name>
+        <price>249.99</price>
+        <image>Garmin_fitness_watches.jpg</image>
+        <manufacturer>GARMIN</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+		
+		
+    </wearabletechnology>
+	
+</WearableTechnologyCatalog>
+
+
+
+<PhoneCatalog>
+    <phone id="SAMSUNG GALAXY">
+        <name>SAMSUNG GALAXY</name>
+        <price>399.99</price>
+        <image>galaxy-note-20-ultra.jpg</image>
+        <manufacturer>SAMSUNG</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+
+
+    </phone>
+    <phone id="IPHONE 11 PRO">
+        <name>IPHONE 11 PRO</name>
+        <price>399.99</price>
+        <image>iphone-11-pro.jpg</image>
+        <manufacturer>IPHONE</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+		
+
+
+    </phone>
+
+    <phone id="LG V60">
+        <name>LG V60</name>
+        <price>349.99</price>
+        <image>lg-v60.jpg</image>
+        <manufacturer>LG</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+		
+
+
+    </phone>
+    <phone id="ONEPLUS 8">
+        <name>ONEPLUS 8</name>
+        <price>349.99</price>
+        <image>oneplus-8.jpg</image>
+        <manufacturer>ONEPLUS</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+		
+
+
+    </phone>
+    <phone id="GOOGLE PIXEL">
+        <name>GOOGLE PIXEL</name>
+        <price>249.99</price>
+        <image>pixel-4a.jpg</image>
+        <manufacturer>GOOGLE</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+
+    </phone>
+</PhoneCatalog>
+
+
+
+
+
+
+
+
+
+<AccessoryCatalog>
+
+    <accessory id="TV WARRANTY">
+        <name>TV WARRANTY 1YR</name>
+        <price>89.99</price>
+        <image>BD_warranty.png</image>
+        <manufacturer>BESTDEAL</manufacturer>
+        <condition>New</condition>
+        <discount>0.0</discount>
+     </accessory>
+
+
+	 
+	 
+	 <accessory id="sam_keyboard">
+        <name>Logitech Keyboard</name>
+        <price>89.99</price>
+        <image>keyboard.jpg</image>
+        <manufacturer>LOGITECH</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+
+    <accessory id="LG_monitor">
+        <name>Monitor</name>
+        <price>89.99</price>
+        <image>LG_monitor.jpg</image>
+        <manufacturer>LG</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+	 
+	 <accessory id="xboxone_rs">
+        <name>Starterkit</name>
+        <price>89.99</price>
+        <image>starterkit.jpeg</image>
+        <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+
+    <accessory id="xboxone_mp">
+        <name>Wireless adpter</name>
+        <price>89.99</price>
+        <image>wirelessadapter.jpg</image>
+        <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+	 
+	 <accessory id="xboxone_mc">
+        <name>Wireless </name>
+        <price>89.99</price>
+        <image>wirelessadapter.jpg</image>
+        <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+	 
+
+    <accessory id="xbox360_wc">
+        <name>XBOX Speeding Wheel</name>
+        <price>89.99</price>
+        <image>XBOX360-SpeedWheel.jpg</image>
+        <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+
+    <accessory id="xbox360_sh">
+        <name>XBOX Wireless Adapter</name>
+        <price>89.99</price>
+        <image>xbox360_wa.png</image>
+        <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+	 
+	 <accessory id="xbox360_vb">
+        <name>Remote</name>
+        <price>89.99</price>
+        <image>remote.jpg</image>
+        <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+	 	 <accessory id="xbox360_rs">
+        <name>messengerkit</name>
+        <price>89.99</price>
+        <image>messengerkit.jpg</image>
+        <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+	 
+	 	 <accessory id="xbox360_mp">
+        <name>Steering</name>
+        <price>89.99</price>
+        <image>steering.jpg</image>
+        <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+	 
+	 	 <accessory id="xbox360_kg">
+        <name>Charger</name>
+        <price>89.99</price>
+        <image>charger.jpg</image>
+        <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+
+    <accessory id="ps4_wc">
+        <name>PS Controller</name>
+        <price>89.99</price>
+        <image>XBOX controller.jpg</image>
+        <manufacturer>Sony</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+
+    <accessory id="ps3_wc">
+        <name>PS Gaming HeadPhones</name>
+        <price>89.99</price>
+        <image>Turtle Beach Headset.jpg</image>
+        <manufacturer>Sony</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+
+    <accessory id="nintendo_wc">
+        <name>Nintendo Controller</name>
+        <price>89.99</price>
+        <image>Wii1.jpg</image>
+        <manufacturer>Nintendo</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+
+    <accessory id="nintendo_sh">
+        <name>Nintendo Racing Controller</name>
+        <price>89.99</price>
+        <image>Wii2.jpg</image>
+        <manufacturer>Nintendo</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+	 
+</AccessoryCatalog>
+
+
+
+
+
+</ProductCatalog>
