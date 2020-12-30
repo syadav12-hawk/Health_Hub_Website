@@ -1,11 +1,11 @@
 Twitter API : 
 
-consumer_key=IsRgVEtWtImiSnapFnIoOtzad
-consumer_secret=YWFE7OqcfjYVCKJQ267oJoT3sD7CH8ETOqa2kZM0CgY4qJY8fg
-access_token_key=730112703746826240-iDS5ExH2KUijjLdv3uWyueMzfCdb5U2
-access_token_secret=zc4s75F9VyI37ED9s0aeUQ3J0idU5ijtIcNlCRcMAk3nB
+consumer_key=**************************
+consumer_secret=**************************
+access_token_key=**************************
+access_token_secret=**************************
 
 
 Google MAP API : 
 
-AIzaSyAUL1gHXjCThQiC3WQZHkwfNMg5IjWQq0M
+**************************
